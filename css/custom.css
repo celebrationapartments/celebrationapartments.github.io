@@ -107,19 +107,6 @@ img.capture{
   margin-left: -2px; 
 }
 
-/* textblock
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.textblock {
-  margin-left: 5rem;
-  margin-right: 5rem;
-}
-
-/* centered
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.centered {
-  text-align: center;
-}
-
 /* Larger than phone */
 @media (min-width: 550px) {
   .header {
